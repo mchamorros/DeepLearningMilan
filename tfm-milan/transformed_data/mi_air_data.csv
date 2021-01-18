@@ -1,0 +1,113 @@
+,sensorID,streetName,sensorCoordinates,sensorType,unitMeasure,cellId
+0,6651,Milano - P.zza  Zavattari,<shapely.coords.CoordinateSequence object at 0x7f7271358f50>,Particolato Totale Sospeso,µg/m³,5644
+0,20005,Milano - via Senato,<shapely.coords.CoordinateSequence object at 0x7f7271358e50>,BlackCarbon,µg/m³,5362
+0,6328,Milano - viale Marche,<shapely.coords.CoordinateSequence object at 0x7f724d6eae10>,Ossidi di Azoto,µg/m³,6660
+0,10282,Milano - Pascal Città Studi,<shapely.coords.CoordinateSequence object at 0x7f7271361290>,Ozono,µg/m³,5775
+0,5542,Milano - viale Liguria,<shapely.coords.CoordinateSequence object at 0x7f7271361050>,Biossido di Azoto,µg/m³,4153
+0,5518,Pero,<shapely.coords.CoordinateSequence object at 0x7f7271361f90>,Biossido di Azoto,µg/m³,7227
+0,5832,Rho - via Statuto,<shapely.coords.CoordinateSequence object at 0x7f7271371d50>,Monossido di Carbonio,mg/m³,7811
+0,5638,Rho - via Statuto,<shapely.coords.CoordinateSequence object at 0x7f7271371f50>,Biossido di Zolfo,µg/m³,7811
+0,5710,Cormano,<shapely.coords.CoordinateSequence object at 0x7f7271371dd0>,Ozono,µg/m³,9151
+0,5628,Milano - viale Liguria,<shapely.coords.CoordinateSequence object at 0x7f7271371f10>,Biossido di Zolfo,µg/m³,4153
+0,6298,Cinisello Balsamo,<shapely.coords.CoordinateSequence object at 0x7f7271371f90>,Ossidi di Azoto,µg/m³,9272
+0,6354,Milano - via Senato,<shapely.coords.CoordinateSequence object at 0x7f7271371c50>,Ossidi di Azoto,µg/m³,5362
+0,12641,Milano - via Senato,<shapely.coords.CoordinateSequence object at 0x7f72712f83d0>,Benzo(a)pirene,ng/m³,5362
+0,17126,Milano - Pascal Città Studi,<shapely.coords.CoordinateSequence object at 0x7f7271371c10>,Benzene,µg/m³,5775
+0,5831,Pero,<shapely.coords.CoordinateSequence object at 0x7f72712f8190>,Monossido di Carbonio,mg/m³,7227
+0,5815,Arese,<shapely.coords.CoordinateSequence object at 0x7f72712f8290>,Monossido di Carbonio,mg/m³,8823
+0,5643,Settimo Milanese,<shapely.coords.CoordinateSequence object at 0x7f72712f85d0>,Biossido di Zolfo,µg/m³,5816
+0,5547,Cormano,<shapely.coords.CoordinateSequence object at 0x7f72712f8550>,Biossido di Azoto,µg/m³,9151
+0,5647,Milano - Verziere,<shapely.coords.CoordinateSequence object at 0x7f72712f8490>,Biossido di Zolfo,µg/m³,5062
+0,5650,Milano - P.zza  Zavattari,<shapely.coords.CoordinateSequence object at 0x7f72712f8750>,Biossido di Zolfo,µg/m³,5644
+0,6340,Milano - Parco Lambro,<shapely.coords.CoordinateSequence object at 0x7f72712f84d0>,Ossidi di Azoto,µg/m³,6779
+0,5651,Milano - viale Marche,<shapely.coords.CoordinateSequence object at 0x7f72712f8090>,Biossido di Zolfo,µg/m³,6660
+0,5506,Milano - P.zza  Zavattari,<shapely.coords.CoordinateSequence object at 0x7f72712f86d0>,Biossido di Azoto,µg/m³,5644
+0,5618,Cinisello Balsamo,<shapely.coords.CoordinateSequence object at 0x7f72712f8950>,Biossido di Zolfo,µg/m³,9272
+0,5532,Cinisello Balsamo,<shapely.coords.CoordinateSequence object at 0x7f72712f87d0>,Biossido di Azoto,µg/m³,9272
+0,20358,Sesto S.Giovanni,<shapely.coords.CoordinateSequence object at 0x7f72712f8850>,Particelle sospese PM2.5,µg/m³,8475
+0,6956,Milano - Verziere,<shapely.coords.CoordinateSequence object at 0x7f72712f8910>,PM10 (SM2005),µg/m³,5062
+0,5708,Arese,<shapely.coords.CoordinateSequence object at 0x7f72712f8810>,Ozono,µg/m³,8823
+0,10283,Milano - Pascal Città Studi,<shapely.coords.CoordinateSequence object at 0x7f72712f8ad0>,Particelle sospese PM2.5,µg/m³,5775
+0,12640,Milano - via Senato,<shapely.coords.CoordinateSequence object at 0x7f72712f8390>,Piombo,ng/m³,5362
+0,5711,Corsico,<shapely.coords.CoordinateSequence object at 0x7f72712f8bd0>,Ozono,µg/m³,3729
+0,12639,Milano - via Senato,<shapely.coords.CoordinateSequence object at 0x7f72712f8b90>,Cadmio,ng/m³,5362
+0,17127,Milano - viale Marche,<shapely.coords.CoordinateSequence object at 0x7f72712f8dd0>,Benzene,µg/m³,6660
+0,10280,Milano - Pascal Città Studi,<shapely.coords.CoordinateSequence object at 0x7f72712f8a90>,Biossido di Zolfo,µg/m³,5775
+0,6645,Pero,<shapely.coords.CoordinateSequence object at 0x7f72712f8d90>,Particolato Totale Sospeso,µg/m³,7227
+0,20020,Milano - Pascal Città Studi,<shapely.coords.CoordinateSequence object at 0x7f72712f8a10>,Ammoniaca,µg/m³,5775
+0,6637,Milano - via Juvara,<shapely.coords.CoordinateSequence object at 0x7f72712f8c90>,Particolato Totale Sospeso,µg/m³,5571
+0,6316,Lainate,<shapely.coords.CoordinateSequence object at 0x7f72712f8f10>,Ossidi di Azoto,µg/m³,9905
+0,6909,Arese,<shapely.coords.CoordinateSequence object at 0x7f72712f8f90>,PM10 (SM2005),µg/m³,8823
+0,5552,Milano - P.zza Abbiategrasso,<shapely.coords.CoordinateSequence object at 0x7f72712f8e90>,Biossido di Azoto,µg/m³,3557
+0,6905,Milano - via Juvara,<shapely.coords.CoordinateSequence object at 0x7f72712f8cd0>,PM10 (SM2005),µg/m³,5571
+0,5551,Milano - via Senato,<shapely.coords.CoordinateSequence object at 0x7f72712f80d0>,Biossido di Azoto,µg/m³,5362
+0,5827,Milano - viale Marche,<shapely.coords.CoordinateSequence object at 0x7f72712f8fd0>,Monossido di Carbonio,mg/m³,6660
+0,6057,Milano - via Senato,<shapely.coords.CoordinateSequence object at 0x7f7271300250>,Benzene,µg/m³,5362
+0,5722,Milano - Parco Lambro,<shapely.coords.CoordinateSequence object at 0x7f72712f8690>,Ozono,µg/m³,6779
+0,6646,Rho - via Statuto,<shapely.coords.CoordinateSequence object at 0x7f7271300490>,Particolato Totale Sospeso,µg/m³,7811
+0,12626,Milano - Pascal Città Studi,<shapely.coords.CoordinateSequence object at 0x7f72713003d0>,Cadmio,ng/m³,5775
+0,12625,Milano - Pascal Città Studi,<shapely.coords.CoordinateSequence object at 0x7f7271300450>,Arsenico,ng/m³,5775
+0,5855,Lainate,<shapely.coords.CoordinateSequence object at 0x7f7271300310>,Monossido di Carbonio,mg/m³,9905
+0,5550,Milano - Parco Lambro,<shapely.coords.CoordinateSequence object at 0x7f7271300510>,Biossido di Azoto,µg/m³,6779
+0,5818,Cinisello Balsamo,<shapely.coords.CoordinateSequence object at 0x7f72713004d0>,Monossido di Carbonio,mg/m³,9272
+0,5637,Milano - P.zza Abbiategrasso,<shapely.coords.CoordinateSequence object at 0x7f7271300150>,Biossido di Zolfo,µg/m³,3557
+0,5517,Rho - via Statuto,<shapely.coords.CoordinateSequence object at 0x7f7271300810>,Biossido di Azoto,µg/m³,7811
+0,5504,Milano - viale Marche,<shapely.coords.CoordinateSequence object at 0x7f7271300350>,Biossido di Azoto,µg/m³,6660
+0,17122,Milano - via Senato,<shapely.coords.CoordinateSequence object at 0x7f7271300910>,Particelle sospese PM2.5,µg/m³,5362
+0,5838,Milano - Verziere,<shapely.coords.CoordinateSequence object at 0x7f7271300850>,Monossido di Carbonio,mg/m³,5062
+0,6366,Milano - Verziere,<shapely.coords.CoordinateSequence object at 0x7f7271300a10>,Ossidi di Azoto,µg/m³,5062
+0,9874,Milano - via Juvara,<shapely.coords.CoordinateSequence object at 0x7f7271300750>,Particelle sospese PM2.5,µg/m³,5571
+0,5836,Settimo Milanese,<shapely.coords.CoordinateSequence object at 0x7f7271300b10>,Monossido di Carbonio,mg/m³,5816
+0,10269,Milano - via Juvara,<shapely.coords.CoordinateSequence object at 0x7f7271300a90>,Ammoniaca,µg/m³,5571
+0,5613,Arese,<shapely.coords.CoordinateSequence object at 0x7f7271300ad0>,Biossido di Zolfo,µg/m³,8823
+0,5541,Settimo Milanese,<shapely.coords.CoordinateSequence object at 0x7f7271300c90>,Biossido di Azoto,µg/m³,5816
+0,5841,Milano - P.zza  Zavattari,<shapely.coords.CoordinateSequence object at 0x7f7271300950>,Monossido di Carbonio,mg/m³,5644
+0,12638,Milano - via Senato,<shapely.coords.CoordinateSequence object at 0x7f7271300c50>,Arsenico,ng/m³,5362
+0,5625,Milano - via Juvara,<shapely.coords.CoordinateSequence object at 0x7f7271300990>,Biossido di Zolfo,µg/m³,5571
+0,6290,Arese,<shapely.coords.CoordinateSequence object at 0x7f7271300bd0>,Ossidi di Azoto,µg/m³,8823
+0,5819,Cormano,<shapely.coords.CoordinateSequence object at 0x7f7271300d90>,Monossido di Carbonio,mg/m³,9151
+0,5835,Sesto S.Giovanni,<shapely.coords.CoordinateSequence object at 0x7f7271300f90>,Monossido di Carbonio,mg/m³,8475
+0,12624,Milano - Pascal Città Studi,<shapely.coords.CoordinateSequence object at 0x7f7271300dd0>,Nikel,ng/m³,5775
+0,12637,Milano - via Senato,<shapely.coords.CoordinateSequence object at 0x7f72713008d0>,Nikel,ng/m³,5362
+0,5834,Milano - via Senato,<shapely.coords.CoordinateSequence object at 0x7f7271300e50>,Monossido di Carbonio,mg/m³,5362
+0,10273,Milano - Pascal Città Studi,<shapely.coords.CoordinateSequence object at 0x7f7271300e90>,PM10 (SM2005),µg/m³,5775
+0,6346,Rho - via Statuto,<shapely.coords.CoordinateSequence object at 0x7f7271300050>,Ossidi di Azoto,µg/m³,7811
+0,5609,S.Giuliano Milanese,<shapely.coords.CoordinateSequence object at 0x7f7271300d50>,Biossido di Azoto,µg/m³,1891
+0,5820,Corsico,<shapely.coords.CoordinateSequence object at 0x7f7271300fd0>,Monossido di Carbonio,mg/m³,3729
+0,10320,Milano - via Senato,<shapely.coords.CoordinateSequence object at 0x7f7271307090>,PM10 (SM2005),µg/m³,5362
+0,5619,Cormano,<shapely.coords.CoordinateSequence object at 0x7f7271307290>,Biossido di Zolfo,µg/m³,9151
+0,6356,Sesto S.Giovanni,<shapely.coords.CoordinateSequence object at 0x7f72713073d0>,Ossidi di Azoto,µg/m³,8475
+0,6037,Cormano,<shapely.coords.CoordinateSequence object at 0x7f7271307410>,Benzene,µg/m³,9151
+0,10278,Milano - Pascal Città Studi,<shapely.coords.CoordinateSequence object at 0x7f72713074d0>,Ossidi di Azoto,µg/m³,5775
+0,6302,Corsico,<shapely.coords.CoordinateSequence object at 0x7f7271307110>,Ossidi di Azoto,µg/m³,3729
+0,6639,Milano - viale Liguria,<shapely.coords.CoordinateSequence object at 0x7f7271307590>,Particolato Totale Sospeso,µg/m³,4153
+0,6344,Milano - P.zza Abbiategrasso,<shapely.coords.CoordinateSequence object at 0x7f7271307750>,Ossidi di Azoto,µg/m³,3557
+0,6372,Milano - P.zza  Zavattari,<shapely.coords.CoordinateSequence object at 0x7f7271307610>,Ossidi di Azoto,µg/m³,5644
+0,6320,Milano - viale Liguria,<shapely.coords.CoordinateSequence object at 0x7f72713072d0>,Ossidi di Azoto,µg/m³,4153
+0,6062,Milano - P.zza  Zavattari,<shapely.coords.CoordinateSequence object at 0x7f7271307690>,Benzene,µg/m³,5644
+0,6276,S.Giuliano Milanese,<shapely.coords.CoordinateSequence object at 0x7f72713076d0>,Ossidi di Azoto,µg/m³,1891
+0,20004,Milano - Pascal Città Studi,<shapely.coords.CoordinateSequence object at 0x7f7271307790>,BlackCarbon,µg/m³,5775
+0,5713,Milano - via Juvara,<shapely.coords.CoordinateSequence object at 0x7f72713077d0>,Ozono,µg/m³,5571
+0,5642,Sesto S.Giovanni,<shapely.coords.CoordinateSequence object at 0x7f72712f8110>,Biossido di Zolfo,µg/m³,8475
+0,10279,Milano - Pascal Città Studi,<shapely.coords.CoordinateSequence object at 0x7f72712f8790>,Biossido di Azoto,µg/m³,5775
+0,12627,Milano - Pascal Città Studi,<shapely.coords.CoordinateSequence object at 0x7f7271371b10>,Piombo,ng/m³,5775
+0,6342,Pero,<shapely.coords.CoordinateSequence object at 0x7f72713071d0>,Ossidi di Azoto,µg/m³,7227
+0,6647,Sesto S.Giovanni,<shapely.coords.CoordinateSequence object at 0x7f7271307b90>,Particolato Totale Sospeso,µg/m³,8475
+0,5636,Pero,<shapely.coords.CoordinateSequence object at 0x7f7271307c10>,Biossido di Zolfo,µg/m³,7227
+0,12629,Milano - Pascal Città Studi,<shapely.coords.CoordinateSequence object at 0x7f7271307c90>,Benzo(a)pirene,ng/m³,5775
+0,5725,Milano - Verziere,<shapely.coords.CoordinateSequence object at 0x7f7271307d50>,Ozono,µg/m³,5062
+0,5823,Milano - viale Liguria,<shapely.coords.CoordinateSequence object at 0x7f7271307dd0>,Monossido di Carbonio,mg/m³,4153
+0,5812,S.Giuliano Milanese,<shapely.coords.CoordinateSequence object at 0x7f7271307bd0>,Monossido di Carbonio,mg/m³,1891
+0,5696,S.Giuliano Milanese,<shapely.coords.CoordinateSequence object at 0x7f7271307fd0>,Biossido di Zolfo,µg/m³,1891
+0,5540,Lainate,<shapely.coords.CoordinateSequence object at 0x7f7271307e50>,Biossido di Azoto,µg/m³,9905
+0,6358,Settimo Milanese,<shapely.coords.CoordinateSequence object at 0x7f7271307cd0>,Ossidi di Azoto,µg/m³,5816
+0,5626,Lainate,<shapely.coords.CoordinateSequence object at 0x7f7271307f50>,Biossido di Zolfo,µg/m³,9905
+0,5505,Milano - via Juvara,<shapely.coords.CoordinateSequence object at 0x7f7271307050>,Biossido di Azoto,µg/m³,5571
+0,5507,Sesto S.Giovanni,<shapely.coords.CoordinateSequence object at 0x7f7271307d10>,Biossido di Azoto,µg/m³,8475
+0,6300,Cormano,<shapely.coords.CoordinateSequence object at 0x7f7271307f10>,Ossidi di Azoto,µg/m³,9151
+0,5531,Milano - Verziere,<shapely.coords.CoordinateSequence object at 0x7f727130e390>,Biossido di Azoto,µg/m³,5062
+0,5539,Arese,<shapely.coords.CoordinateSequence object at 0x7f7271307e90>,Biossido di Azoto,µg/m³,8823
+0,5528,Corsico,<shapely.coords.CoordinateSequence object at 0x7f727130e0d0>,Biossido di Azoto,µg/m³,3729
+0,5620,Corsico,<shapely.coords.CoordinateSequence object at 0x7f727130e290>,Biossido di Zolfo,µg/m³,3729
+0,6641,Milano - viale Marche,<shapely.coords.CoordinateSequence object at 0x7f727130e310>,Particolato Totale Sospeso,µg/m³,6660
+0,6312,Milano - via Juvara,<shapely.coords.CoordinateSequence object at 0x7f727130e1d0>,Ossidi di Azoto,µg/m³,5571
